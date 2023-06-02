@@ -8,5 +8,6 @@ public class Test1test
 public void m() 
 {
 	System.out.println("hiiijava");
+	System.out.println("Hellovenku");
 }
 }
