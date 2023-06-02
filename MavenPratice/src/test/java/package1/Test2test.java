@@ -8,6 +8,7 @@ public class Test2test
 	public void m() 
 	{
 		System.out.println("Welcome to testyantra");
+		System.out.println("Bye Qspiders");
 		
 	}
 }
